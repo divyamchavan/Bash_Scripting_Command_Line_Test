@@ -1,0 +1,50 @@
+1.What command is used to remove files?
+a.rm
+b.del
+c.replace
+d.none of the above
+2.What command is used to create a directory?
+a.make
+b.rm
+c.mkdir
+d.cp
+3.What command is used to create a file?
+a.make
+b.rm
+c.mkdir
+d.touch
+4.What command is used to show contents of present working directory?
+a.make
+b.rm
+c.ls
+d.cp
+5.What command is used to show current directory?
+a.pwd
+b.rm
+c.mkdir
+d.cp
+6.What command is used to copy files?
+a.make
+b.df
+c.mkdir
+d.cp
+7.What command is used to copy directory?
+a.make
+b.rm
+c.cp -r
+d.cp
+8.What command is used to show contents of a file?
+a.echo
+b.cat
+c.mkdir
+d.cp
+9.What command is used to change directory?
+a.make
+b.cd
+c.mkdir
+d.cp
+10.What command is used to move a directory?
+a.mv
+b.rm
+c.mkdir
+d.cp
